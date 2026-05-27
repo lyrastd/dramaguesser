@@ -413,14 +413,14 @@ var import_vite = require("vite");
 
 // firebase-applet-config.json
 var firebase_applet_config_default = {
-  projectId: "distinguished-force-t07pf",
-  appId: "1:976807017135:web:51d462d55bedd8a229b25a",
-  apiKey: "AIzaSyD3_6Ox5AKrzL2vNRCKBYhfsoxNYg6-LVY",
-  authDomain: "distinguished-force-t07pf.firebaseapp.com",
-  firestoreDatabaseId: "ai-studio-5f2be40b-b5ea-4250-8320-e307def95422",
-  storageBucket: "distinguished-force-t07pf.firebasestorage.app",
-  messagingSenderId: "976807017135",
-  measurementId: ""
+  projectId: "assistantcreator-79401",
+  appId: "1:962297917401:web:559e765d702f9c369333c8",
+  apiKey: "AIzaSyAQWV02yApwC2sKfyea2PQWGQXEXn5TZgg",
+  authDomain: "assistantcreator-79401.firebaseapp.com",
+  firestoreDatabaseId: "",
+  storageBucket: "assistantcreator-79401.firebasestorage.app",
+  messagingSenderId: "962297917401",
+  measurementId: "G-49XVYYSCXM"
 };
 
 // src/services/scraper.ts
